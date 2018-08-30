@@ -1,0 +1,45 @@
+body {
+			background-color: #07FAEB ;   #07FAEB  
+			}
+			
+
+.knop:link, .knop:visited {
+    background-color: #3b72ba;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+.knop:hover, .knop:active {
+    background-color: #38c173;
+    color: #000000
+}
+	
+
+
+.foto:link, .foto:visited {
+    background-color: #0ed2cc;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+.foto:hover, .foto:active {
+    background-color: #38c173;
+    color: #000000
+}
+
+
+
+
+
+
+
+
+
